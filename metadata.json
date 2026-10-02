@@ -1,0 +1,6 @@
+{
+  "name": "Shakib Khan Hub",
+  "description": "Superstar Shakib Khan Fan & Social Media Portal featuring Facebook, TikTok, YouTube, Telegram, movies, songs, dialogues, gallery and news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

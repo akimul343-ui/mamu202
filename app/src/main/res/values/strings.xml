@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shakib Khan Hub</string>
+    <string name="tab_home">হোম</string>
+    <string name="tab_social">সোশ্যাল লিংক</string>
+    <string name="tab_movies">সিনেমা</string>
+    <string name="tab_songs">গান ও ডায়লগ</string>
+    <string name="tab_gallery">গ্যালারি</string>
+    <string name="tab_favorites">পছন্দ</string>
+</resources>
